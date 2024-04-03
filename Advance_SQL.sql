@@ -1,7 +1,3 @@
-# Advance_SQL-
-
-
-## Advance SQL 
 create database ad_sql;
 use ad_sql;
 
